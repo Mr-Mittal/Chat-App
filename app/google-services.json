@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "918029059154",
+    "firebase_url": "https://chatapp-99030.firebaseio.com",
+    "project_id": "chatapp-99030",
+    "storage_bucket": "chatapp-99030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918029059154:android:ecdc16a1c57949fe",
+        "android_client_info": {
+          "package_name": "com.example.yashmittal.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918029059154-fl5kt94cq43nf36l0iougm849gvoqqch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yashmittal.chat",
+            "certificate_hash": "7c5b859176a092bf9e99e6f0edce2121cb0eb2f0"
+          }
+        },
+        {
+          "client_id": "918029059154-ofnmb8vkoh8rhrjkopcsdm4vtevhrq7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzZeUXHrgrJpFooDE9Llm7ilJK1AkeSjE"
+        },
+        {
+          "current_key": "AIzaSyDd_tPeweabkZtwPzmZ7pcXsQEqPnzpzQM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918029059154-ofnmb8vkoh8rhrjkopcsdm4vtevhrq7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

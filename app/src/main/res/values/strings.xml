@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Confession</string>
+    <string name="title_activity_suggestions">Suggestions</string>
+    <string name="title_activity_sign_in">SignIn</string>
+</resources>
